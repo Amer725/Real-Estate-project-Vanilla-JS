@@ -31,4 +31,4 @@ This project was developed during the **ITI Summer Internship 2025** as part of 
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/mohamedbehairy/Real-Estate-project-Vanilla-JS
+   git clone https://amer725.github.io/Real-Estate-project-Vanilla-JS/
